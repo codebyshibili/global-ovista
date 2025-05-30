@@ -38,7 +38,7 @@
 
 :root {
 
-    --primary-color: #FF7400;
+    --primary-color:rgb(239,83,47);
 
     --secondary-color: black;
 
@@ -56,7 +56,7 @@
 
     --text-secondary-color: #FFFFFF;
 
-    --text-hover-color: #FF7400;
+    --text-hover-color: rgb(239,83,47);
 
     --bg-color: #FFFFFF;
 }
@@ -259,7 +259,7 @@ img {
 .btn-35 {
     -webkit-tap-highlight-color: transparent;
     -webkit-appearance: button;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     background-image: none;
     color: #fff;
     cursor: pointer;
@@ -301,7 +301,7 @@ img {
     position: relative;
     text-transform: capitalize;
     border-radius: 30px;
-    box-shadow: 0px 15px 30px 0px #FF740059;
+    box-shadow: 0px 15px 30px 0px rgb(240,86,51);
 
 }
 
@@ -532,7 +532,7 @@ section {
     display: block;
     width: 95px;
     height: 3px;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     left: 0;
     bottom: 0;
 }
@@ -655,7 +655,7 @@ section {
 
 .hero .hero-img-box .slid-detail p i {
     font-size: 18px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     margin: 0 5px 0 0;
 }
 
@@ -732,7 +732,7 @@ section {
 }
 
 .hero .arrow-next button.hero-next.slick-arrow:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .hero .arrow-next {
@@ -783,7 +783,7 @@ section {
     left: 0;
     width: 0;
     height: 100%;
-    background: #FF7400;
+    background: rgb(240,86,51);
     display: block
 }
 
@@ -825,15 +825,15 @@ section {
 .popular-tour .tour-filters li.nav-link:hover,
 .popular-tour .tour-filters li.nav-link.active {
     color: #FFF;
-    background-color: #FF7400 !important;
-    box-shadow: 0px 15px 30px 0px #FF740059;
+    background-color: rgb(240,86,51) !important;
+    box-shadow: 0px 15px 30px 0px rgb(240,86,51);
 }
 
 .tour-filters .nav-pills .nav-link.active,
 .tour-filters .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #FF7400 !important;
-    box-shadow: 0px 15px 30px 0px #FF740059;
+    background-color: rgb(240,86,51) !important;
+    box-shadow: 0px 15px 30px 0px rgb(240,86,51);
 }
 
 
@@ -907,7 +907,7 @@ section {
 .popular-tour .tour-detail-box .tour-img .tour-detail a:hover,
 .popular-tour .tour-detail-box .tour-img:hover .tour-detail a {
     transition: all 0.5s;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
 }
 
 .popular-tour .tour-detail-box .tour-img .tour-days p {
@@ -946,11 +946,11 @@ section {
 }
 
 .popular-tour .tour-detail-box .tour-content .tour-info a:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .popular-tour .tour-detail-box .tour-content .tour-info a i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 10px 0 0;
     font-size: 16px
 }
@@ -968,7 +968,7 @@ section {
 }
 
 .popular-tour .tour-detail-box .tour-content .tour-rating p i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -1020,7 +1020,7 @@ section {
     display: block;
     width: 59px;
     height: 5px;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     left: 0;
     bottom: 0;
 }
@@ -1071,7 +1071,7 @@ section {
 }
 
 .about-us .about-detail .about-us-btn a.contact-btn:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 
@@ -1131,7 +1131,7 @@ section {
     display: block;
     width: 95px;
     height: 5px;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     left: 0;
     bottom: 0;
 }
@@ -1151,14 +1151,14 @@ section {
 .explore-place .place-filters li.nav-link.active {
     color: #FFF;
     transition: all 0.5s;
-    background-color: #FF7400 !important;
+    background-color: rgb(240,86,51) !important;
     box-shadow: 0px 15px 30px 0px #FF740059;
 }
 
 .place-filters .nav-pills .nav-link.active,
 .place-filters .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #FF7400 !important;
+    background-color: rgb(240,86,51) !important;
     transition: all 0.5s;
     box-shadow: 0px 15px 30px 0px #FF740059;
 }
@@ -1231,7 +1231,7 @@ section {
 .explore-place .place-detail-box .place-img .place-detail a:hover,
 .explore-place .place-detail-box .place-img:hover .place-detail a {
     transition: all 0.5s;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
 }
 
 .explore-place .place-detail-box .place-img .tour-days p {
@@ -1270,11 +1270,11 @@ section {
 }
 
 .explore-place .place-detail-box .place-content .place-info a:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .explore-place .place-detail-box .place-content .place-info a i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 10px 0 0;
     font-size: 16px
 }
@@ -1283,7 +1283,7 @@ section {
     font-size: 22px;
     font-weight: 600;
     line-height: 33px;
-    color: #FF7400;
+    color:rgb(240,86,51);
 }
 
 .explore-place .place-detail-box .place-box {
@@ -1313,7 +1313,7 @@ section {
 }
 
 .explore-place .place-detail-box .place-box .place-rating p i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -1441,10 +1441,10 @@ section {
 }
 
 .testimonial-section .testimonial-arrow button.slick-arrow {
-    border: 1px solid #FF7400;
+    border: 1px solid rgb(240,86,51);
     outline: 0;
     font-size: 22px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     width: 54px;
     height: 54px;
     background-color: #FFFFFF;
@@ -1457,7 +1457,7 @@ section {
 }
 
 .testimonial-section .testimonial-arrow button.slick-arrow:hover {
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     color: #FFF;
     box-shadow: 0px 15px 30px 0px #FF740059;
 }
@@ -1510,7 +1510,7 @@ section {
 
 .testimonial-section .testimonial-content .rating i {
     font-size: 20px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -1532,10 +1532,10 @@ section {
 }
 
 .blog-section .blog-arrow button.slick-arrow {
-    border: 1px solid #FF7400;
+    border: 1px solid rgb(240,86,51);
     outline: 0;
     font-size: 22px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     width: 54px;
     height: 54px;
     background-color: #FFFFFF;
@@ -1548,9 +1548,9 @@ section {
 }
 
 .blog-section .blog-arrow button.slick-arrow:hover {
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     color: #FFF;
-    box-shadow: 0px 15px 30px 0px #FF740059;
+    box-shadow: 0px 15px 30px 0px rgb(240,86,51);
 }
 
 .blog-section .blog-slider {
@@ -1859,7 +1859,7 @@ section {
 }
 
 .hero-two .hero-form .form-inner button.btn-35:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 /*--------------------------------------------------------------
@@ -1902,7 +1902,7 @@ section {
     left: 0;
     width: 0%;
     height: 3px;
-    background: #FF7400;
+    background: rgb(240,86,51);
     transition: all 0.6s;
 }
 
@@ -1957,7 +1957,7 @@ section {
 
 .popular-tour-two .tour-detail-box:hover,
 .popular-tour-two .tour-detail-box:hover .tour-content .tour-info a {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .popular-tour-two .tour-detail-box:hover,
@@ -2001,11 +2001,11 @@ section {
 }
 
 .popular-tour-two .tour-detail-box .tour-content .tour-info a:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .popular-tour-two .tour-detail-box .tour-content .tour-info a i {
-    color: #FF7400;
+    color:rgb(240,86,51);
     padding: 0 10px 0 0;
     font-size: 16px;
     transition: all 0.5s;
@@ -2024,7 +2024,7 @@ section {
 }
 
 .popular-tour-two .tour-detail-box .tour-content .tour-rating p i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -2056,7 +2056,7 @@ section {
     padding: 26px 24px;
     max-width: 473px;
     background-color: #FFF;
-    border-left: 5px solid #FF7400;
+    border-left: 5px solid rgb(240,86,51);
     box-shadow: 0px 5px 10px 0px #00000026;
     position: absolute;
     bottom: 60px;
@@ -2149,7 +2149,7 @@ section {
     left: 0;
     width: 0%;
     height: 3px;
-    background: #FF7400;
+    background: rgb(240,86,51);
     transition: all 0.6s;
 }
 
@@ -2173,10 +2173,10 @@ section {
 }
 
 .explore-place-two .explore-place-arrow button.slick-arrow {
-    border: 1px solid #FF7400;
+    border: 1px solid rgb(240,86,51);
     outline: 0;
     font-size: 22px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     width: 54px;
     height: 54px;
     background-color: #FFFFFF;
@@ -2185,7 +2185,7 @@ section {
 }
 
 .explore-place-two .explore-place-arrow button.slick-arrow:hover {
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     color: #FFF;
     box-shadow: 0px 15px 30px 0px #FF740059;
 }
@@ -2261,7 +2261,7 @@ section {
 .explore-place-two .place-detail-box .place-img .place-detail a:hover,
 .explore-place-two .place-detail-box .place-img:hover .place-detail a {
     transition: all 0.5s;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
 }
 
 .explore-place-two .place-detail-box .place-img .tour-days p {
@@ -2300,11 +2300,11 @@ section {
 }
 
 .explore-place-two .place-detail-box .place-content .place-info a:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .explore-place-two .place-detail-box .place-content .place-info a i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 10px 0 0;
     font-size: 16px
 }
@@ -2315,7 +2315,7 @@ section {
     line-height: 27px;
     padding: 6px 20px;
     color: #FFF;
-    background-color: #FF7400;
+    background-color:rgb(240,86,51);
     border-radius: 10px;
     transition: all 0.5s;
 }
@@ -2348,7 +2348,7 @@ section {
 }
 
 .explore-place-two .place-detail-box .place-box .place-date span i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -2537,7 +2537,7 @@ section {
 
 .testimonial-two-section .testimonial-content .rating i {
     font-size: 20px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -2548,10 +2548,10 @@ section {
 }
 
 .testimonial-two-section .testimonial-arrow button.slick-arrow {
-    border: 1px solid #FF7400;
+    border: 1px solid rgb(240,86,51);
     outline: 0;
     font-size: 22px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     width: 54px;
     height: 54px;
     background-color: #FFFFFF;
@@ -2570,7 +2570,7 @@ section {
 }
 
 .testimonial-two-section .testimonial-arrow button.slick-arrow:hover {
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     color: #FFF;
     box-shadow: 0px 15px 30px 0px #FF740059;
 }
@@ -2586,10 +2586,10 @@ section {
 }
 
 .blog-two-section .blog-arrow button.slick-arrow {
-    border: 1px solid #FF7400;
+    border: 1px solid rgb(240,86,51);
     outline: 0;
     font-size: 22px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     width: 54px;
     height: 54px;
     background-color: #FFFFFF;
@@ -2602,9 +2602,9 @@ section {
 }
 
 .blog-two-section .blog-arrow button.slick-arrow:hover {
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     color: #FFF;
-    box-shadow: 0px 15px 30px 0px #FF740059;
+    box-shadow: 0px 15px 30px 0px rgb(240,86,51);
 }
 
 .blog-two-section .blog-slider {
@@ -2822,7 +2822,7 @@ section {
 }
 
 button.btn-35:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 /*--------------------------------------------------------------
@@ -2916,7 +2916,7 @@ button.btn-35:hover {
     left: 0;
     width: 0%;
     height: 3px;
-    background: #FF7400;
+    background: rgb(240,86,51);
     transition: all 0.6s;
 }
 
@@ -2971,7 +2971,7 @@ button.btn-35:hover {
 
 .popular-tour-three .tour-detail-box:hover,
 .popular-tour-three .tour-detail-box:hover .tour-content .tour-info a {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .popular-tour-three .tour-detail-box:hover,
@@ -3015,11 +3015,11 @@ button.btn-35:hover {
 }
 
 .popular-tour-three .tour-detail-box .tour-content .tour-info a:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .popular-tour-three .tour-detail-box .tour-content .tour-info a i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 10px 0 0;
     font-size: 16px;
     transition: all 0.5s;
@@ -3038,7 +3038,7 @@ button.btn-35:hover {
 }
 
 .popular-tour-three .tour-detail-box .tour-content .tour-rating p i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 5px 0 0;
 }
 
@@ -3124,7 +3124,7 @@ button.btn-35:hover {
 }
 
 .top-destination .destination-detail .destination-info a span:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .top-destination .destination-detail .destination-img a img {
@@ -3142,7 +3142,7 @@ button.btn-35:hover {
 
 .top-destination .destination-detail:hover,
 .top-destination .destination-detail:hover .destination-info a span {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .top-destination .main-title {
@@ -3273,7 +3273,7 @@ button.btn-35:hover {
     left: 0;
     width: 0%;
     height: 3px;
-    background: #FF7400;
+    background:rgb(240,86,51);
     transition: all 0.6s;
 }
 
@@ -3297,10 +3297,10 @@ button.btn-35:hover {
 }
 
 .explore-place-three .explore-place-arrow button.slick-arrow {
-    border: 1px solid #FF7400;
+    border: 1px solid rgb(240,86,51);
     outline: 0;
     font-size: 22px;
-    color: #FF7400;
+    color: rgb(240,86,51);
     width: 54px;
     height: 54px;
     background-color: #FFFFFF;
@@ -3309,9 +3309,9 @@ button.btn-35:hover {
 }
 
 .explore-place-three .explore-place-arrow button.slick-arrow:hover {
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     color: #FFF;
-    box-shadow: 0px 15px 30px 0px #FF740059;
+    box-shadow: 0px 15px 30px 0px rgb(240,86,51);
 }
 
 .explore-place-three .place-detail-box {
@@ -3385,7 +3385,7 @@ button.btn-35:hover {
 .explore-place-three .place-detail-box .place-img .place-detail a:hover,
 .explore-place-three .place-detail-box .place-img:hover .place-detail a {
     transition: all 0.5s;
-    background-color: #FF7400;
+    background-color:rgb(240,86,51);
 }
 
 .explore-place-three .place-detail-box .place-img .tour-days p {
@@ -3424,11 +3424,11 @@ button.btn-35:hover {
 }
 
 .explore-place-three .place-detail-box .place-content .place-info a:hover {
-    color: #FF7400;
+    color: rgb(240,86,51);
 }
 
 .explore-place-three .place-detail-box .place-content .place-info a i {
-    color: #FF7400;
+    color: rgb(240,86,51);
     padding: 0 10px 0 0;
     font-size: 16px
 }
@@ -3439,7 +3439,7 @@ button.btn-35:hover {
     line-height: 24px;
     padding: 7px 19px 6px 20px;
     color: #FFF;
-    background-color: #FF7400;
+    background-color: rgb(240,86,51);
     border-radius: 10px;
     transition: all 0.5s;
 }
